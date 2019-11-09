@@ -122,6 +122,10 @@ notebook/pc:
         display: inline-block;
     }
 
+    .sloupec {
+        display: flex;
+    }
+
     .hlavni-recept .recept-nazev {
         font-size: 36px;
     }
@@ -150,6 +154,7 @@ notebook/pc:
     }
     .sloupec {
         width: 66.66%;
+        display: flex;
     }
 
     .hlavni-recept .recept-nazev {
